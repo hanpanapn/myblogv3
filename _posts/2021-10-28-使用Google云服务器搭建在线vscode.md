@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 使用Google云服务器搭建在线vscode
 category : 服务器
 tags : Linux 

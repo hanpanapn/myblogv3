@@ -1,5 +1,4 @@
 ---
-layout: post
 title: GithubPage中用Jekyll的语法
 tags: 
     - 博客搭建 

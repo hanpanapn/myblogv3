@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 获取steam中csgo的历史订单
 category : Steam
 tags : Steam

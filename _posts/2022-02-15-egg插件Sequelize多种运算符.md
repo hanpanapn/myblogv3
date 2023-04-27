@@ -1,5 +1,4 @@
 ---
-layout: post
 title: egg插件Sequelize多种运算符
 category : 后端
 tags : 后端

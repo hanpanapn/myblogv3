@@ -1,5 +1,4 @@
 ---
-layout: post
 title: docker容器jekyll-builder的使用
 category : 
 tags : Linux
