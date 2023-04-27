@@ -2801,6 +2801,7 @@ figure.highlight pre.highlight {
   padding: 1em;
   height: calc(100vh - 500px);
   overflow: scroll;
+
   font-size: 14px;
 }
 
