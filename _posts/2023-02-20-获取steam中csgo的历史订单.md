@@ -7,7 +7,7 @@ seo_keywords: 获取steam中csgo的历史订单
 seo_description: 获取steam中csgo的历史订单
 ---
 
-```
+```js
 //用steam的购买日期和饰品名称 去和 buff匹配，但可能会出现：同一天，同一件饰品，购买的价格不同，但这种情况购买金额相差肯定不会太大，所有忽略这种情况
 const axios = require("axios");
 const jsdom = require("jsdom");

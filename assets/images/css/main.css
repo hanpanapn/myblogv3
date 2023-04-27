@@ -2799,6 +2799,9 @@ figure.highlight > pre,
 figure.highlight pre.highlight {
   margin: 0;
   padding: 1em;
+  height: calc(100vh - 500px);
+  overflow: scroll;
+  font-size: 14px;
 }
 
 .highlight table {
