@@ -1891,7 +1891,9 @@ blockquote.notice--danger {
   clear: both;
   margin-left: auto;
   margin-right: auto;
-  padding: 1em;
+  padding: 6px;
+  background-color: #34495e;
+  border-color: #2a3b4c;
   max-width: 100%;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -2161,22 +2163,22 @@ blockquote.notice--danger {
   -ms-flex-align: center;
   align-items: center;
   min-height: 2em;
-  background: #fff;
+  color: white;
 }
 
 .greedy-nav a {
   display: block;
   margin: 0 1rem;
-  color: #6f777d;
   text-decoration: none;
   -webkit-transition: none;
   transition: none;
-  font-size: 16px;
+  font-size: 14px;
   font-weight: bold;
+  color: white;
 }
 
 .greedy-nav a:hover {
-  color: #53595e;
+  color: orange;
 }
 
 .greedy-nav a.site-logo {
