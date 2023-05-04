@@ -2171,6 +2171,8 @@ blockquote.notice--danger {
   text-decoration: none;
   -webkit-transition: none;
   transition: none;
+  font-size: 16px;
+  font-weight: bold;
 }
 
 .greedy-nav a:hover {
@@ -3687,6 +3689,12 @@ body {
 .page__title {
   margin-top: 0;
   line-height: 1;
+  font-size: 18px;
+  background: orange;
+  display: inline;
+  padding: 4px 7px;
+  border-radius: 0 5px 0 5px;
+  font-weight: bold;
 }
 
 .page__title a {
@@ -4238,6 +4246,7 @@ body {
 .archive__item a {
   position: relative;
   z-index: 10;
+  font-size: 18px;
 }
 
 .archive__item a[rel="permalink"] {
