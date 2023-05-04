@@ -2,15 +2,7 @@
 layout: splash
 permalink: /
 hidden: true
-header:
-  overlay_color: "#5e616c"
-  overlay_image: /assets/images/mm-home-page-feature.jpg
-  actions:
-    - label: "<i class='fas fa-download'></i> Install now"
-      url: "/docs/quick-start-guide/"
-excerpt: >
-  用代码创造世界，以技术改变生活。这里是我的网络空间，记录着我在程序人生中遇到的点点滴滴，分享我的编程经验和心得体会。让我们一起探索不断发展的技术世界<br />
-  <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.24.0">Latest release v4.24.0</a></small>
+ 
 feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
     alt: "界面呈现与用户交互，构建优雅的Web体验"
