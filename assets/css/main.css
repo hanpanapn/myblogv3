@@ -3214,6 +3214,7 @@ body:hover .visually-hidden button {
   margin-left: auto;
   margin-right: auto;
   width: 100%;
+  text-align: center;
 }
 
 .align-left {
@@ -3855,8 +3856,7 @@ body {
 .page__hero--overlay .comment__date,
 .page__hero--overlay .page__lead,
 .page__hero--overlay .btn {
-  color: #fff;
-  text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.5);
+  color: #333;
 }
 
 .page__hero--overlay .page__lead {
