@@ -3818,8 +3818,7 @@ body {
 
 .page__hero--overlay {
   position: relative;
-  margin-bottom: 2em;
-  padding: 3em 0;
+  padding: 1.9em 0;
   clear: both;
   background-size: cover;
   background-repeat: no-repeat;
@@ -3861,7 +3860,6 @@ body {
 }
 
 .page__hero--overlay .page__lead {
-  max-width: 768px;
 }
 
 .page__hero--overlay .page__title {
